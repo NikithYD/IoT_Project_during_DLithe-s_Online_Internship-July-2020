@@ -1,0 +1,13 @@
+        Component                     Quantity
+     
+     Arduino Uno R3             -        1
+        Red LED                 -        6
+       White LED                -        3
+       Green LED                -        1
+Ultrasonic Distance Sensor      -        1
+         Piezo                  -        1
+     220 Ω Resistor             -        2
+  250 kΩ, Potentiometer         -        1
+     100 Ω Resistor             -       10
+       LCD 16 x 2               -        1
+       Gas Sensor               -        1
